@@ -1,4 +1,4 @@
-package com.github.bodrul2112.javascratchpad.guavastuff;
+package com.github.bodrul2112.javascratchpad.guavastuff.cachebuilder_stuff;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Executors;
@@ -13,7 +13,7 @@ import com.google.common.cache.RemovalNotification;
  * These are code snippets where I don't care about the class names
  * @author bodrula
  */
-public class CacheStuff_SelfExpiringAfterAccess
+public class Snippet_SelfExpiringAfterAccess
 {
 	
 	static class Wrapper{

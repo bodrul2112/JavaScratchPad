@@ -1,4 +1,4 @@
-package com.github.bodrul2112.javascratchpad.guavastuff;
+package com.github.bodrul2112.javascratchpad.guavastuff.cachebuilder_stuff;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
@@ -12,7 +12,7 @@ import com.google.common.cache.RemovalNotification;
  * These are code snippets where I don't care about the class names
  * @author bodrula
  */
-public class CacheStuff_SelfExpiringAfterCreation
+public class Snippet_SelfExpiringAfterCreation
 {
 	public static void main(String[] args) throws ExecutionException
 	{
