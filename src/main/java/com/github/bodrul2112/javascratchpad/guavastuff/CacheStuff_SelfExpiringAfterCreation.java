@@ -12,7 +12,7 @@ import com.google.common.cache.RemovalNotification;
  * These are code snippets where I don't care about the class names
  * @author bodrula
  */
-public class CacheStuff_SelfExpiring
+public class CacheStuff_SelfExpiringAfterCreation
 {
 	public static void main(String[] args) throws ExecutionException
 	{
