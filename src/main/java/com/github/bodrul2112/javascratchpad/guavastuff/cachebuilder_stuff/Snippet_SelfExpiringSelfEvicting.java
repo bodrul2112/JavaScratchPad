@@ -55,7 +55,9 @@ public class Snippet_SelfExpiringSelfEvicting
 		}
 
 		/**
-		 * This feels somewhat like a poor mans evict queue
+		 * This feels like an evicting queue but you have the call back to the removal of the item.
+		 * It maintains performance by letting the coder monitor when the check for removed items should be called.
+		 * Otherwise they themselves would have just written some code monitor it 
 		 */
 	}
 	
